@@ -369,9 +369,9 @@ a
 			background-repeat: no-repeat;
 		}
 	.sprites-icon1,.sprites-icon2,.sprites-icon3,.sprites-icon4,.sprites-icon5
-	{
-		transition: all 0.5s;
-	}
+		{
+			transition: all 0.5s;
+		}
 	.sprites-icon1
 		{
 			background-position: center 5px;
@@ -437,8 +437,8 @@ a
 	.produt-overlay
 		{
 			position: absolute;
-			top: 0;
 			left: 0;
+			top: 0;
 			transform: scaleX(0.0);
 			transition: transform 0.2s;
 			opacity: 0.9;
